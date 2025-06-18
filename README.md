@@ -1,5 +1,9 @@
 # 🏟️ Sports Event Organizer (Laravel)
 
+Built with [Laravel](https://laravel.com) (PHP Framework)
+
+![Laravel](https://img.shields.io/badge/Laravel-10.x-red?logo=laravel)
+
 A powerful event management system built using **Laravel (PHP Framework)**. Organizers can manage sports events, participants, registrations, and more.
 
 ## 🧰 Tech Stack
